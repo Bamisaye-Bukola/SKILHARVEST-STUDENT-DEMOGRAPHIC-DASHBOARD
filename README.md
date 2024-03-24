@@ -20,4 +20,4 @@ We  utilized a google form. We created a google form containing questions about 
   * Handling missing values-We checked for any missing or incomplete information in the dataset and implemented strategies to handle them appropriately
   * Removing Duplicates-The duplicate in the dataset was removed to ensure each student's information is unique.
 
-    ## 
+    ## EDA (Expo
