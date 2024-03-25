@@ -20,4 +20,10 @@ We  utilized a google form. We created a google form containing questions about 
   * Handling missing values-We checked for any missing or incomplete information in the dataset and implemented strategies to handle them appropriately
   * Removing Duplicates-The duplicate in the dataset was removed to ensure each student's information is unique.
 
-    ## EDA (Expo
+    ## EDA (Exploratory Data Analysis)
+
+Through this report, we seek to answer key questions such as:
+* What is the distribution of our data Analysis students?
+* What are the most common occupations and education background among our students?
+* How does the gender distribution vary within the class?
+* What proportion of students are married and single?
